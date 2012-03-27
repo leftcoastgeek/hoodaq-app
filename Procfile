@@ -1,1 +1,1 @@
-web: bundle exec ruby hoodaq.rb -e prod -p $PORT -d
+web: bundle exec ruby hoodaq.rb -sv -e prod -p $PORT

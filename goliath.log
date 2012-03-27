@@ -1,0 +1,11 @@
+[27047:INFO] 2012-03-27 00:14:56 :: Starting server on 0.0.0.0:5000 in production mode. Watch out for stones.
+[27083:INFO] 2012-03-27 00:15:14 :: Starting server on 0.0.0.0:5000 in production mode. Watch out for stones.
+[27156:INFO] 2012-03-27 00:17:39 :: Starting server on 0.0.0.0:9000 in development mode. Watch out for stones.
+[27047:INFO] 2012-03-27 00:21:41 :: Status: 200, Content-Length: 2909, Response Time: 18.99ms
+[27047:INFO] 2012-03-27 00:21:41 :: Status: 200, Content-Length: 31, Response Time: 39.06ms
+[27047:INFO] 2012-03-27 00:21:41 :: Status: 200, Content-Length: 6421, Response Time: 0.78ms
+[27047:INFO] 2012-03-27 00:21:41 :: Status: 200, Content-Length: 68738, Response Time: 1.29ms
+[27047:INFO] 2012-03-27 00:21:45 :: Status: 200, Content-Length: 2909, Response Time: 4.28ms
+[27047:INFO] 2012-03-27 00:21:45 :: Status: 200, Content-Length: 31, Response Time: 1.55ms
+[27047:INFO] 2012-03-27 00:21:45 :: Status: 200, Content-Length: 68738, Response Time: 0.84ms
+[27047:INFO] 2012-03-27 00:21:45 :: Status: 200, Content-Length: 6421, Response Time: 0.43ms

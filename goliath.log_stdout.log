@@ -1,0 +1,6 @@
+/Applications/MAMP/htdocs/goliath/vendor/bundle/ruby/1.9.1/gems/eventmachine-1.0.0.beta.4/lib/eventmachine.rb:516:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Applications/MAMP/htdocs/goliath/vendor/bundle/ruby/1.9.1/gems/eventmachine-1.0.0.beta.4/lib/eventmachine.rb:516:in `start_server'
+	from /Applications/MAMP/htdocs/goliath/lib/goliath/server.rb:86:in `block in start'
+	from /Applications/MAMP/htdocs/goliath/vendor/bundle/ruby/1.9.1/gems/em-synchrony-1.0.0/lib/em-synchrony.rb:25:in `call'
+	from /Applications/MAMP/htdocs/goliath/vendor/bundle/ruby/1.9.1/gems/em-synchrony-1.0.0/lib/em-synchrony.rb:25:in `block (2 levels) in synchrony'
+[27156:INFO] 2012-03-27 00:17:39 :: Starting server on 0.0.0.0:9000 in development mode. Watch out for stones.
